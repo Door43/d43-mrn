@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mrn:home|Door43 (mrn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mrn|d43-mrn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mrn/archive/master.zip|d43-mrn.zip]]
+
+**Recent Changes**
+{{changes>ns = mrn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mrn|Ethnologue data]]
+
